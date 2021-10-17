@@ -1,6 +1,6 @@
 # Data Versioning Control
 
-## Initialiying dvc
+## Initializing dvc
 
 ## Connecting DVC with your Google Drive
 
