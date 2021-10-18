@@ -1,4 +1,4 @@
-# Tools and practices for efficient and reproducible research
+# MLOps tools for efficient and reproducible research
 
 The current repository provides a step-by-step tutorial for recent MLOps tools and how they can be adopted and used to improve efficiency and reproducibility in academic setups. This repo is destined for junior scientist at early stages of their research as well as more experienced scholars who would like learn about recent MLOps tools. 
 
