@@ -2,7 +2,7 @@
 
 The current repository provides a step-by-step tutorial for recent MLOps tools and how they can be adopted and used to improve efficiency and reproducibility in academic setups. This repo is destined for junior scientist at early stages of their research as well as more experienced scholars who would like learn about recent MLOps tools. 
 
-The tools presented aim to replace spreadsheet and document sharing tools (such as Excel or Google Docs) frequently used as knowledge repositories. They also also replace both ad-hoc scripts to track, move, and  different model versions and ad-hoc data file suffixes and prefixes.
+The tools presented aim to replace spreadsheet and document sharing tools (such as Excel or Google Docs) frequently used as knowledge repositories. They also replace both ad-hoc scripts to track, move, and save  different model versions and ad-hoc data file suffixes and prefixes.
 
 The current content was presented as part of the DECIDE Seminar at the university of Klagenfurt (W21).
 
